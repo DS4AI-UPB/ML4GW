@@ -1,3 +1,12 @@
+# coding: utf-8
+
+__author__      = "Ciprian-Octavian Truică and Elena-Simona Apostol"
+__copyright__   = "Copyright 2023, National University of Science and Technology Politehnica Bucharest"
+__license__     = "GNU GPL"
+__version__     = "0.1"
+__email__       = "{ciprian.truica,elena.apostol}@upb.ro"
+__status__      = "Development"
+
 import sys
 import os
 import math
