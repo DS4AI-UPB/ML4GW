@@ -17,7 +17,7 @@ Python >= 3.9
 - SciPy
 - tensorflow
 - Keras
-- 
+ 
 ## Utilization
 
 To run ShallowWave
